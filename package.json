@@ -1,6 +1,7 @@
 {
   "name": "transpiling-parcel",
   "version": "1.0.0",
+  "source": "index.html",
   "description": "",
   "scripts": {
     "dev": "npx parcel index.html",
@@ -8,7 +9,7 @@
   },
   "staticFiles": {
     "staticPath": "public"
-    
+
   },
   "keywords": [],
   "author": "",
