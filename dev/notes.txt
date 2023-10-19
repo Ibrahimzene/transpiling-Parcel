@@ -1,0 +1,4 @@
+- x build html/css/js site
+- x ES6 modules
+	- x tool.js: changeTitle
+- .. create npm project
