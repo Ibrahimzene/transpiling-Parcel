@@ -1,4 +1,8 @@
 - x build html/css/js site
 - x ES6 modules
 	- x tool.js: changeTitle
-- .. create npm project
+- x create npm project
+	- `npm init -y`
+- x install parcel
+	- `npm i -D parcel`
+- .. set up parcel site
