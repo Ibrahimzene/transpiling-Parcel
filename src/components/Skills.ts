@@ -1,4 +1,4 @@
-import { ISkill } from "../interfaces";
+import { ISkill } from "../components/interfaces";
 
 export const Skills = (skills:ISkill[]) => {
 	return /*html*/ `
